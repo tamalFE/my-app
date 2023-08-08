@@ -1,0 +1,8 @@
+What I have done on this repository below I write  down step by step:-
+
+
+1. First of all I go to terminal to create my app. (npx create nest-app).
+
+2. Then to create a simple and single Next.js project I ignore all the extra feature from that.
+
+3. Lastly I create a about folder on app directory to check this project it's Ok or not. 
